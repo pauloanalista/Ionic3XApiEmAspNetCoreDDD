@@ -1,0 +1,11 @@
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.deps.json
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.pdb
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.Resources.MSG.resources
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csproj.GenerateResource.cache
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csproj.CoreCompileInputs.cache
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.AssemblyInfoInputs.cache
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.AssemblyInfo.cs
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.pdb
+C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csprojResolveAssemblyReference.cache
